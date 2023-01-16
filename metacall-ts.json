@@ -1,0 +1,7 @@
+{
+  "language_id": "ts",
+  "path": ".",
+  "scripts": [
+    "hello-world.tsx"
+  ]
+}
