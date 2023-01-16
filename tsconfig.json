@@ -1,0 +1,15 @@
+{
+  "ts-node": {
+    "esm": true,
+    "experimentalSpecifierResolution": "node",
+    "files": true
+  },
+  "exclude": ["node_modules/**"],
+  "compilerOptions": {
+    "module": "CommonJS",
+    "strict": true,
+    "jsx": "react",
+    "skipLibCheck": true,
+    "esModuleInterop": true
+  }
+}
